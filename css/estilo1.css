@@ -3,7 +3,10 @@ background-color: lightblue;
 
 }
 
-h1{
-    font-size: 20vh;
-    color: red;
+
+header{
+    display: flex;
+    grid-gap:5vw;
+    background-color: red;
+    padding: 2vh;
 }

@@ -25,3 +25,7 @@ header{
     background-color: rgb(76, 10, 163);
     padding: 2vh;
 }
+header a{
+    color: white;
+    text-decoration: none;
+}
